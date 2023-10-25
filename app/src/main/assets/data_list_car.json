@@ -1,0 +1,22 @@
+[
+  {
+    "carId" : 1,
+    "carName": "Honda"
+  },
+  {
+    "carId" : 2,
+    "carName": "Suzuki"
+  },
+  {
+    "carId" : 3,
+    "carName": "Mazda"
+  },
+  {
+    "carId" : 4,
+    "carName": "Toyota"
+  },
+  {
+    "carId" : 5,
+    "carName": "Daihatsu"
+  }
+]
